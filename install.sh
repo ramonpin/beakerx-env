@@ -9,3 +9,4 @@ pip install hide_code
 jupyter nbextension install --prefix ~/virtualenvs/beakerx  --py hide_code
 jupyter nbextension enable hide_code --py
 jupyter serverextension enable --py hide_code
+pip install iplantuml
